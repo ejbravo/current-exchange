@@ -94,7 +94,7 @@ export default function CustomTable({ data }: IProps) {
           <TableRow>
             <TablePagination
               rowsPerPageOptions={[5, 10, 25, { label: 'All', value: -1 }]}
-              colSpan={3}
+              colSpan={5}
               count={data.length}
               rowsPerPage={rowsPerPage}
               page={page}
