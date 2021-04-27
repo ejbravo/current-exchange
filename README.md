@@ -1,7 +1,7 @@
 # Current Exchange from SNB (frontend) / current-exchange
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-- This application requires the (backend application - server)[https://github.com/ejbravo/current-exchange-server] working to show the results.
+- This application requires the [backend application - server](https://github.com/ejbravo/current-exchange-server) working to show the results.
 
 ## Available Scripts
 
